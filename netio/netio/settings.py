@@ -25,7 +25,8 @@ SECRET_KEY = 'd808gcdo9a@79t9e30#)yh*f1#*3h^%_h*nz(zd!^r@!gb@cps'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1',]
+ALLOWED_HOSTS = ['127.0.0.1','192.168.0.21','http://retiarii.io/',]
+
 
 
 # Application definition
